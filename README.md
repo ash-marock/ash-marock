@@ -9,7 +9,7 @@
 
 APOLLO (Real-Estate Social Media App) 
 
-![apollo_login-4](https://user-images.githubusercontent.com/110641005/197366448-d218099e-7488-42c3-94b9-2eb9409a7f53.png)
+![Apollo-Github-Banner](https://user-images.githubusercontent.com/110641005/197366717-dc6130a4-ad28-430a-a6c0-b718164ec20f.png)
 
 
 
