@@ -4,8 +4,9 @@
 
 ![TECHNOLOGIES-2](https://user-images.githubusercontent.com/110641005/190757131-4ab461a9-70e4-404f-b478-0c568540526d.png)
 
-
+--------------------------------------------------------------------
 -- TECHNICAL PROJECTS --
+--------------------------------------------------------------------
 
 APOLLO (Full Stack Real-Estate Social Media App) 
 
@@ -17,7 +18,9 @@ SUMMARY: Apollo is a full-stack mobile application built using React Native, Fir
 KEY FEATURES:
 -Users are able to upload an image or video and create a real estate listing in an interface similar to Instagram. 
 
--Each individual listing/post includes the user information, property price, likes, and comments. The listings include a fully functional like count comment section. 
+-Each individual listing/post includes the user information, property price, likes, and comments. 
+
+-The listings include a fully functional like count comment section. 
 
 -Registration/Login Functionaity, along with form validation on Login and SignUp
 
