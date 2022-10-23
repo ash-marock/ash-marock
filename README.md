@@ -16,6 +16,7 @@ SUMMARY: Apollo is a full-stack mobile application built using React Native, Fir
 
 
 KEY FEATURES:
+
 ✅ Users are able to upload an image or video and create a real estate listing in an interface similar to Instagram. 
 
 ✅ Each individual listing/post includes the user information, property price, likes, and comments. 
