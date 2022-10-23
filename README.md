@@ -38,6 +38,25 @@ GITHUB LINK 🔗: https://github.com/ash-marock/Apollo_Real_Estate_App.git
 
 ____________________________________________________________________________________________________________
 
+BORROW-THAT (Short-Term Rental Online Marketplace)
+
+
+![Borrow-That Banner](https://user-images.githubusercontent.com/110641005/197368654-c15d1548-ef41-4554-b04f-18ec3a482c03.png)
+
+SUMMARY: Borrow-THAT is currently a concept/idea that was brought to life with Python, Flask, and MySQL. The concept behind the project is an online marketplace that allows users to list items in their local area on a short-term rental basis. 
+
+LIVE DEMO 💻: https://youtu.be/9hq9Cn2WulA
+
+
+KEY FEATURES:
+
+✅ Create/List an item on the Borrow-THAT Platform
+
+✅ List your item at an hourly rate for other users to borrow it. 
+
+✅ Visual Wireframe of Stripe Integration
+
+✅Visual Wireframe of Borrow-THAT Map (Currently utilizes atlistmaps.com until geolocation is incorporated into the project)
 
 
 
