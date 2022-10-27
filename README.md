@@ -28,11 +28,7 @@ KEY FEATURES:
 
 ✅ Registration/Login Functionaity, along with form validation on Login and SignUp
 
-
-
-IN PROGRESS: 
-
-⏳ Firebase Functionality
+✅ 🔥Firebase Functionality / Posts / Likes / Comments / Back-End Integration
 
 GITHUB LINK 🔗: https://github.com/ash-marock/Apollo_Real_Estate_App.git
 
