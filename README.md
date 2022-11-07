@@ -50,7 +50,7 @@ KEY FEATURES:
 
 ✅ List your item at an hourly rate for other users to borrow it. 
 
-✅ Visual Wireframe of Stripe Integration
+✅ Visual Wireframe of Stripe Integration.
 
 ✅Visual Wireframe of Borrow-THAT Map (Currently utilizes atlistmaps.com until geolocation is incorporated into the project)
 
