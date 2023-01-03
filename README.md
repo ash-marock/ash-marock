@@ -1,4 +1,4 @@
-- 👋 Hello!
+- 👋 Hello
 
 ![Web Designer LinkedIn Banner](https://user-images.githubusercontent.com/110641005/190729931-57fdbde7-e6fb-4fd9-aa80-48dca2ca497c.png)
 
