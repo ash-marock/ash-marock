@@ -52,7 +52,7 @@ KEY FEATURES:
 
 ✅ Visual Wireframe of Stripe Integration.
 
-✅Visual Wireframe of Borrow-THAT Map (Currently utilizes atlistmaps.com until geolocation is incorporated into the project)
+✅Visual Wireframe of Borrow-THAT Map (Currently utilizes atlistmaps.com until geolocation is incorporated into the project) 
 
 
 
