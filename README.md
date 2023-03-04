@@ -1,4 +1,4 @@
-- 👋 Hello!
+- 👋 Hello
 
 ![Web Designer LinkedIn Banner](https://media.licdn.com/dms/image/D4D16AQFN0Ea2xgzUGQ/profile-displaybackgroundimage-shrink_350_1400/0/1676357187652?e=1682553600&v=beta&t=2afsthFGHU3H0PavTIjNm7LOx7CR-48mvQOgiaY4dGI)
 
